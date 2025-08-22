@@ -67,8 +67,8 @@ export default tseslint.config([
   },
 ])
 ```
-# Hình học 2D
+# Geometry 2D
 ts-node codeC1.ts
 
-# Phép xoay 3D
+# Rotation 3D
 ts-node codeC2.ts
