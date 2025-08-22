@@ -67,8 +67,8 @@ export default tseslint.config([
   },
 ])
 ```
-# Chạy bài toán Hình học 2D
+# Hình học 2D
 ts-node codeC1.ts
 
-# Chạy bài toán Phép xoay 3D
+# Phép xoay 3D
 ts-node codeC2.ts
